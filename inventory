@@ -1,0 +1,8 @@
+[hashicorp_vault]
+172.25.123.61
+
+[controller]
+172.25.123.60
+
+[client]
+172.25.123.62
